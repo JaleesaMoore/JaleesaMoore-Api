@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="JaleesaMoore.Api/JaleesaMoore.Api.csproj" />
+  <Project Path="JaleesaMoore.Domain/JaleesaMoore.Domain.csproj" />
+</Solution>

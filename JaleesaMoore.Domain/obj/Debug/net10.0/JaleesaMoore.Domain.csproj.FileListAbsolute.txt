@@ -1,0 +1,12 @@
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/bin/Debug/net10.0/JaleesaMoore.Domain.deps.json
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/bin/Debug/net10.0/JaleesaMoore.Domain.dll
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/bin/Debug/net10.0/JaleesaMoore.Domain.pdb
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/obj/Debug/net10.0/JaleesaMoore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/obj/Debug/net10.0/JaleesaMoore.Domain.AssemblyInfoInputs.cache
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/obj/Debug/net10.0/JaleesaMoore.Domain.AssemblyInfo.cs
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/obj/Debug/net10.0/JaleesaMoore.Domain.csproj.CoreCompileInputs.cache
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/obj/Debug/net10.0/JaleesaMoore.Domain.sourcelink.json
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/obj/Debug/net10.0/JaleesaMoore.Domain.dll
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/obj/Debug/net10.0/refint/JaleesaMoore.Domain.dll
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/obj/Debug/net10.0/JaleesaMoore.Domain.pdb
+/Users/jaleesamoore/Desktop/JaleesaMoore-Api/JaleesaMoore.Domain/obj/Debug/net10.0/ref/JaleesaMoore.Domain.dll
